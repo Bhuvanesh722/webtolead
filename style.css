@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main_Headings{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.second_Headings{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input,label{
+    width: 100%;
+    display: block;
+}
+input{
+    margin: auto;
+    border-radius: 5px;
+
+}
+
+.mySubmit{
+    margin: 15px auto;
+    width: 40%;
+    border-radius: 5px;
+}
+
+form{
+    min-width: 300px;
+    max-width: 500px;
+    margin: auto;
+    border: 2px solid black;
+    padding: 10px;
+    
+}
